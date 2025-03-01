@@ -26,7 +26,7 @@ public class FirstServlet extends HttpServlet {
 
         PrintWriter out = response.getWriter();
 
-        out.println("<h3>Hello World Nilesh My First Servlet!</h3>");
+        out.println("<h3>Archit Srivastava</h3>");
 
         out.close();
 
